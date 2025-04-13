@@ -1,4 +1,4 @@
-# 👋 Olá! Seja bem-vindo ao meu GitHub!
+# 👋 Olá!
 
 Aqui você encontrará alguns projetos de estudo que venho explorando nos últimos tempos.
 
