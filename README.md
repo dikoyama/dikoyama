@@ -23,11 +23,5 @@ Com o tempo, percebi a importância de compartilhar mais do que apenas código e
 
 ---
 
-## 🤝 Vamos nos conectar?
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegokoyama/)  
 ✉️ Email: d-koyama@hotmail.com
-
----
-
-✨ *Obrigado por visitar meu perfil!*
